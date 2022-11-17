@@ -1,4 +1,4 @@
-namespace test_steeltoe;
+namespace test-steeltoe;
 
 public class WeatherForecast
 {

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace test_steeltoe.Controllers;
+namespace test-steeltoe.Controllers;
 
 [ApiController]
 [Route("[controller]")]
